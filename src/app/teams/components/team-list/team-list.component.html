@@ -1,0 +1,15 @@
+<table class="table table-bordered">
+    <thead>
+        <tr>
+            <th>Name</th>
+            <th>Slogan</th>
+        </tr>
+    </thead>
+    <tbody>
+        <tr *ngFor='let team of teams'>
+            <td>{{ team.name }}</td>
+            <td>{{ team.slogan }}</td>
+        </tr>
+    </tbody>
+</table>
+

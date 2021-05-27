@@ -15,7 +15,15 @@
     "lib": [
       "es2018",
       "dom"
+    ],
+    "paths": {
+      "@team-handling/*": [
+        "src/app/*"
+      ],
+      "@team-handling-env/*": [
+        "src/environments/*"
     ]
+    }
   },
   "angularCompilerOptions": {
     "enableI18nLegacyMessageIdFormat": false
