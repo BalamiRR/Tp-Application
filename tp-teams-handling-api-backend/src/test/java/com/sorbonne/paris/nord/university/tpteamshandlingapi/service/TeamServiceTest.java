@@ -48,12 +48,12 @@ public class TeamServiceTest {
         TeamEntity saveTeam = teamService.insertTeam(newTeam);
 
         // When (Action) and Then (Output):
-        assertThat(newTeam.getName())
+        assertThat(saveTeam.getName())
                 .isNotNull()
                 .isNotEmpty()
                 .isEqualTo(getName);
 
-        assertThat(newTeam.getSlogan())
+        assertThat(saveTeam.getSlogan())
                 .isNotNull()
                 .isNotEmpty()
                 .isEqualTo(getSlogan);
