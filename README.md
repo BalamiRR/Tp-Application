@@ -1,5 +1,17 @@
 # TpTeamsHandlingApiFrontend
 
+<a href="https://www.tic-nova.com/" target="_blank" rel="noreferrer"> 
+  <img src="https://www.tic-nova.com/wp-content/uploads/2020/04/angular-10.png" alt="java" width="290" height="160"/> 
+</a> 
+
+<a href="https://upload.wikimedia.org/" target="_blank" rel="noreferrer"> 
+  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/99/Unofficial_JavaScript_logo_2.svg/1200px-Unofficial_JavaScript_logo_2.svg.png" alt="java" width="120" height="120"/> 
+</a> 
+
+<a href="https://www.java.com" target="_blank" rel="noreferrer"> 
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="160" height="160"/> 
+</a> 
+
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 11.2.10. 
 
 ## Development server
